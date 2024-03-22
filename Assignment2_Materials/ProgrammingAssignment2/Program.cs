@@ -50,7 +50,6 @@ namespace ProgrammingAssignment2
 				if(numberCount > 0)
 				{
 					mean = (float)sumOfNumber / numberCount;
-
 				}
 				Console.Write(numberCount + " " + mean);
 				// Don't add or modify any code below
